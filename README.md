@@ -103,7 +103,3 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 Hi there! I'm **Shabeeh Ul Hasan**. I’m a passionate Data Analyst in the making, driven by curiosity and a deep interest in transforming raw data into meaningful insights. I love exploring data, uncovering trends, and using analytics to tell impactful stories.
 
 Currently, I’m on a journey to strengthen my Data Engineering and Analytical skills, building projects that challenge me to think critically and grow further in the data field. My goal is to not just analyze data—but to create value and make data work smarter. I believe learning is a continuous process, and every dataset is an opportunity to discover something new. 🚀
-
-[![Newsletter](https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://bit.ly/BaraaNewsletter)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/baraasalkini)
-[![Join](https://img.shields.io/badge/Join-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
